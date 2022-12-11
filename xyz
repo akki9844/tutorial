@@ -1,9 +1,0 @@
-from tkinter import Y
-
-
-x='123456'
-y=''
-for i in  x:
-    y=i+y
-    
-print(y)
